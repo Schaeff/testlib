@@ -1,6 +1,6 @@
 {
   "name": "@schaeff/testlib",
-  "version": "0.0.0-development",
+  "version": "1.2.3",
   "description": "",
   "main": "dist/testlib.js",
   "scripts": {
