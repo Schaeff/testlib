@@ -5,16 +5,12 @@
   "main": "dist/testlib.js",
   "scripts": {
     "prepublish": "rm dist/testlib.js; node build.js",
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "semantic-release": "semantic-release pre && npm publish && semantic-release post"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
   "repository": {
     "type": "git",
     "url": "https://github.com/Schaeff/testlib.git"
-  },
-  "devDependencies": {
-    "semantic-release": "^6.3.2"
   }
 }
