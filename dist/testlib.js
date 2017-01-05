@@ -1,0 +1,1 @@
+module.exports = {"compiled":{"foo":"bar"}}
